@@ -1,0 +1,4 @@
+name: JSMPlugin
+version: ${project.version}
+main: me.python.JSMPlugin
+authors: [ Python ]
