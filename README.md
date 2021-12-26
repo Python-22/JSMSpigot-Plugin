@@ -6,3 +6,5 @@ Logs Connections to and from your server
 This plugin use's java security manager to log connections this is mostly used for debuguing or you can use it to find malware in plugins that use external links.
 
 This plugins is mostly a poc.
+
+## Update Info: Java 17 deprecated java's SecurityManager
